@@ -231,7 +231,7 @@ span.title {
     gap: 20px;
 }
 
-.load {
+.load, .restart {
     padding: 9px 7px;
     font-weight: 500;
     font-size: 1em;
