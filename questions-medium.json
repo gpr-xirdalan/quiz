@@ -16,11 +16,11 @@
     "question": "Satışda 'etibar yaratmaq' nə deməkdir?",
     "options": [
       "Müştəriyə çox danışmaq",
-      "Müştərinin sənə inanmasını və dediklərinə güvənməsini təmin etmək",
       "Endirim təklif etmək",
+      "Müştərinin sənə inanmasını və dediklərinə güvənməsini təmin etmək",
       "Məhsulu tez satmaq"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Etibar satışın əsas hissəsidir — müştəri sənə inananda qərar verməsi asanlaşır."
   },
   {
@@ -28,11 +28,11 @@
     "question": "Müştəri məhsulun fərqini soruşur: 'Bu niyə 12 manat, o niyə 8 manatdır?'",
     "options": [
       "Qiymət fərqini firmalar təyin edir.",
-      "12 manatlıq modelin iç hissəsi daha keyfiyyətlidir, cihazı daha tez doldurur və uzunömürlüdür.",
       "Bilmirəm, mən satıram.",
-      "Bu sadəcə fərqli brenddir."
+      "Bu sadəcə fərqli brenddir.",
+      "12 manatlıq modelin iç hissəsi daha keyfiyyətlidir, cihazı daha tez doldurur və uzunömürlüdür."
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Müştəriyə fərqi izah etmək onun seçim etməsini asanlaşdırır və satışa kömək edir."
   },
   {
@@ -51,12 +51,12 @@
     "id": 5,
     "question": "'Upsell' nə deməkdir?",
     "options": [
-      "Daha ucuz məhsul təklif etmək",
       "Daha keyfiyyətli və bahalı məhsula yönləndirmək",
+      "Daha ucuz məhsul təklif etmək",
       "Endirim istəmək",
       "Yeni müştəri tapmaq"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Upsell — müştərini daha keyfiyyətli və bahalı məhsula yönləndirərək satış dəyərini artırmaqdır."
   },
   {
@@ -64,11 +64,11 @@
     "question": "Müştəri deyir: 'Fərqi yoxdur, ən ucuzu ver.' Sənin ən düzgün addımın nədir?",
     "options": [
       "Ən ucuzu göstərmək və satmaq",
-      "Ən ucuzu göstər, amma fərqi izah et ki, keyfiyyətli olanın üstünlüklərini bilsin",
       "Deyim: 'Ucuz mal keyfiyyətsiz olur'",
+      "Ən ucuzu göstər, amma fərqi izah et ki, keyfiyyətli olanın üstünlüklərini bilsin",
       "Dərhal bahalı modeli göstərmək"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Müştəriyə seçim imkanı verməklə yanaşı, keyfiyyət fərqini izah etmək onun inamını artırır."
   },
   {
@@ -100,11 +100,11 @@
     "question": "Müştəri deyir: 'Mən fikirləşim.' Ən uyğun cavab hansıdır?",
     "options": [
       "Oldu, sağ olun.",
-      "Əlbəttə, amma icazə verin, sizə qərar verməkdə kömək edim — bu modelin üstünlükləri bunlardır…",
       "Tələsin, bu sonuncudur.",
-      "Deməli, maraqlanmadınız."
+      "Deməli, maraqlanmadınız.",
+      "Əlbəttə, amma icazə verin, sizə qərar verməkdə kömək edim — bu modelin üstünlükləri bunlardır…"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Müştəriyə təzyiq göstərmədən, kömək təklif etmək onun fikrini dəyişə və satışa gətirə bilər."
   },
   {
@@ -124,11 +124,11 @@
     "question": "Hansı cümlə müştəridə daha çox inam yaradır?",
     "options": [
       "Hamı bu modeli alır.",
-      "Bu model xüsusilə tez qızmır və orijinal çiplə istehsal olunub.",
       "Ucuzdu, ziyana satırıq.",
+      "Bu model xüsusilə tez qızmır və orijinal çiplə istehsal olunub.",
       "İstəsəniz endirim edim."
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Məhsulun konkret üstünlüklərini izah etmək müştərinin inamını artırır."
   },
   {
@@ -136,23 +136,23 @@
     "question": "Satış zamanı 'emosional əlaqə' nə deməkdir?",
     "options": [
       "Müştəri ilə dostlaşmaq",
-      "Müştərinin hisslərini anlayıb, alış qərarına təsir etmək bacarığı",
       "Zarafat etmək",
-      "Şəxsi mövzulara keçmək"
+      "Şəxsi mövzulara keçmək",
+      "Müştərinin hisslərini anlayıb, alış qərarına təsir etmək bacarığı"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Emosional əlaqə müştərinin ehtiyac və hisslərinə fokuslanmaqla onun qərarına təsir etməkdir."
   },
   {
     "id": 13,
     "question": "Vitrində məhsulların düzülüşü nə üçün vacibdir?",
     "options": [
-      "Rənglər gözə xoş gəlsin deyə",
       "Satışı artırmaq və müştərinin diqqətini cəlb etmək üçün",
+      "Rənglər gözə xoş gəlsin deyə",
       "Mağaza səliqəli görünsün deyə",
       "Rəhbərlik üçün hesabat asan olsun deyə"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Düzgün vitrin yerləşməsi müştərinin marağını artırır və məhsulun satılma ehtimalını çoxaldır."
   },
   {
@@ -172,11 +172,11 @@
     "question": "Satışın sonunda müştəriyə nə demək düzgündür?",
     "options": [
       "Sağ olun.",
-      "Təşəkkür edirəm, ümid edirəm məmnun qalacaqsınız. Hər hansı problem olsa, biz buradayıq.",
       "Gələn dəfə daha bahalı alın.",
-      "Yenə gəlin, endirim edərik."
+      "Yenə gəlin, endirim edərik.",
+      "Təşəkkür edirəm, ümid edirəm məmnun qalacaqsınız. Hər hansı problem olsa, biz buradayıq."
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Müştəriyə təşəkkür və dəstək təklifi gələcəkdə yenidən alış üçün etibar yaradır."
   }
 ]

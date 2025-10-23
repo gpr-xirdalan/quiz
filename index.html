@@ -42,9 +42,47 @@
 			</div>
 
 		</div>
+
+		<button class="next disabled">Növbəti</button>
 	</div>
 
-	<button class="next disabled">NEXT</button>
+	<div class="modal-start show-modal">
+		<div class="modal-content">
+			<div class="modal-content-header animate__animated animate__fadeIn animate__fast">
+				<span class="emoji">🧠</span>
+				<span class="title">Testi keç və biliklərini yoxla!</span>
+			</span>
+
+			<div class="modal-content-options-list">
+				<button class="load animate__animated animate__fadeInRight animate__fast" style="--animate-duration: 1s" data-src="test.json">🟢 Asan</button>
+
+				<button class="load animate__animated animate__fadeInRight animate__fast" style="--animate-duration: 1s" data-src="questions-easy.json">🟢 Asan</button>
+
+				<button class="load animate__animated animate__fadeInRight animate__fast" data-src="questions-medium.json" style="--animate-duration: 1.3s">🟠 Orta</button>
+
+				<button class="load animate__animated animate__fadeInRight animate__fast" data-src="questions-hard.json" style="--animate-duration: 1.5s">🔴 Çətin</button>
+			</div>
+		</div>
+	</div>
+
+	<div class="modal-end">
+		<div class="modal-content">
+			<div class="modal-content-header animate__animated animate__fadeIn animate__fast">
+				<span class="emoji">🧠</span>
+				<span class="title"></span>
+			</span>
+
+			<div class="modal-content-options-list">
+				<span class="res-time"></span>
+				<span class="res-score"></span>
+			</div>
+
+			<div class="modal-content-options-list">
+				<button class="restart animate__animated animate__fadeInRight animate__fast" style="--animate-duration: 1s" data-src="test.json">Tezden basla</button>
+			</div>
+		</div>
+	</div>	
+
 	<!-- <button class="reset">RESET</button> -->
 	<!-- <button class="load" data-src="questions-medium.json">load</button> -->
 </body>

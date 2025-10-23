@@ -1,14 +1,14 @@
 [
   {
     "id": 16,
-    "question": "Müştəri deyir: “Başqa mağazada eyni məhsul daha ucuzdur.” Necə cavab verməlisən?",
+    "question": "Müştəri deyir: 'Başqa mağazada eyni məhsul daha ucuzdur.' Necə cavab verməlisən?",
     "options": [
       "Onda oradan alın.",
-      "Bizim məhsul orijinaldır və zəmanətlədir, qiymət fərqi keyfiyyət fərqindən irəli gəlir.",
       "Qiyməti endirimlə eyniləşdirərəm.",
-      "Ucuz yerdən alıb peşman olarsınız."
+      "Ucuz yerdən alıb peşman olarsınız.",
+      "Bizim məhsul orijinaldır və zəmanətlədir, qiymət fərqi keyfiyyət fərqindən irəli gəlir."
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Qiyməti deyil, dəyəri vurğulamaq lazımdır. Müştəriyə orijinallıq və zəmanət kimi üstünlükləri göstərmək inam yaradır."
   },
   {
@@ -16,23 +16,23 @@
     "question": "Müştəri uzun müddət qərar verə bilmir. Satıcı nə etməlidir?",
     "options": [
       "Təcili qərar verməsini istəməlidir.",
-      "Məhsulun əsas fərqini və faydasını sadə və aydın şəkildə izah etməlidir.",
       "Susmalıdır, müştəri özü fikirləşsin.",
+      "Məhsulun əsas fərqini və faydasını sadə və aydın şəkildə izah etməlidir.",
       "Qiyməti azaltmalıdır."
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Təzyiq yox, aydın və faydalı izah müştərinin qərar verməsinə kömək edir. Bu, peşəkar satış davranışıdır."
   },
   {
     "id": 18,
     "question": "Satıcı 'aktiv dinləmə' bacarığını necə göstərir?",
     "options": [
-      "Müştərinin sözünü tez-tez kəsir.",
       "Müştərinin dediklərini diqqətlə dinləyib suallarla maraq göstərir.",
+      "Müştərinin sözünü tez-tez kəsir.",
       "Sakit dayanır, heç nə demir.",
       "Sadəcə başını tərpədir."
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Aktiv dinləmə — müştərinin dediklərini anlamaq, sual vermək və cavablarla maraq göstərməkdir. Bu, etimad yaradır."
   },
   {
@@ -49,14 +49,14 @@
   },
   {
     "id": 20,
-    "question": "Müştəri deyir: “Mən indi almaq istəmirəm.” Nə etməli?",
+    "question": "Müştəri deyir: 'Mən indi almaq istəmirəm.' Nə etməli?",
     "options": [
       "Oldu, sağ olun, çıxın.",
-      "Sakitcə maraqlanmaq: 'Bəlkə daha sonra almaq istədiyiniz vaxt üçün qeyd edim?'",
       "Endirim təklif etmək.",
-      "Cavab verməmək."
+      "Cavab verməmək.",
+      "Sakitcə maraqlanmaq: 'Bəlkə daha sonra almaq istədiyiniz vaxt üçün qeyd edim?'"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Bu halda əlaqəni itirməmək vacibdir. Gələcək üçün münasibət qurmaq uzunmüddətli müştəri qazandırır."
   },
   {
@@ -76,16 +76,16 @@
     "question": "Etirazla işləyərkən ilk addım nədir?",
     "options": [
       "Etirazı inkar etmək",
-      "Etirazı diqqətlə dinləmək və səbəbi başa düşmək",
       "Cavab verməmək",
+      "Etirazı diqqətlə dinləmək və səbəbi başa düşmək",
       "Qiyməti azaltmaq"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Etirazın səbəbini anlamaq olmadan doğru cavab vermək mümkün deyil. Dinləmək ilk addımdır."
   },
   {
     "id": 23,
-    "question": "Müştəri deyir: “Mən sadəcə baxıram.” Satıcı necə davranmalıdır?",
+    "question": "Müştəri deyir: 'Mən sadəcə baxıram.' Satıcı necə davranmalıdır?",
     "options": [
       "Təzyiq göstərmədən kömək təklif etməlidir.",
       "Birbaşa qiymətlərdən danışmalıdır.",
@@ -100,11 +100,11 @@
     "question": "Satıcı məhsul haqqında məlumat verərkən nəyi vurğulamalıdır?",
     "options": [
       "Qiymət və endirimi",
-      "Müştərinin ehtiyacına uyğun faydanı",
       "Texniki detalları uzun-uzadı izah etməlidir",
-      "Rəng və dizaynı"
+      "Rəng və dizaynı",
+      "Müştərinin ehtiyacına uyğun faydanı"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Məhsulun xüsusiyyəti yox, müştəriyə verəcəyi fayda əsasdır. Fayda emosional qərar yaradır."
   },
   {
@@ -112,35 +112,35 @@
     "question": "Peşəkar satıcı üçün ən vacib keyfiyyət hansıdır?",
     "options": [
       "Yüksək səs tonunda danışmaq",
-      "Müştəriyə uyğunlaşmaq və etimad yaratmaq",
       "Daim endirim təklif etmək",
+      "Müştəriyə uyğunlaşmaq və etimad yaratmaq",
       "Məhsulu tez təqdim etmək"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Müştəriyə uyğunlaşmaq və etimad yaratmaq satışın uzunmüddətli uğurunun açarıdır."
   },
   {
     "id": 26,
-    "question": "Müştəri deyir: “Bu məhsulu tanımıram.” Satıcı necə davranmalıdır?",
+    "question": "Müştəri deyir: 'Bu məhsulu tanımıram.' Satıcı necə davranmalıdır?",
     "options": [
-      "Qısaca 'yaxşıdır' desin.",
       "Sadə və inandırıcı şəkildə məhsulun üstünlüklərini izah etsin.",
+      "Qısaca 'yaxşıdır' desin.",
       "Dərhal endirim təklif etsin.",
       "Başqa məhsula keçsin."
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Sadə, anlaşılan və inandırıcı izah müştərinin marağını oyadır və inam yaradır."
   },
   {
     "id": 27,
     "question": "Satıcı məhsulu təqdim edərkən hansı səhv ən çox müşahidə olunur?",
     "options": [
-      "Hər məhsulun texniki detallarını çox danışmaq",
       "Məhsulu göstərərkən müştəriyə sual verməmək",
       "Çox sakit danışmaq",
-      "Qiyməti əvvəl demək"
+      "Qiyməti əvvəl demək",
+      "Hər məhsulun texniki detallarını çox danışmaq"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Texniki detalları çox danışmaq müştərini yorur. Əsas odur ki, müştərinin marağına uyğun danışasan."
   },
   {
@@ -148,11 +148,11 @@
     "question": "Satışdan sonra müştəriyə zəng etmək və ya yazmaq nə üçün vacibdir?",
     "options": [
       "Reklam üçün",
-      "Məmnuniyyətini soruşmaq və etibar qurmaq üçün",
       "Yeni məhsul satmaq üçün dərhal",
+      "Məmnuniyyətini soruşmaq və etibar qurmaq üçün",
       "Heç vacib deyil"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Satış sonrası əlaqə müştəri sədaqətini artırır və növbəti satış üçün zəmin yaradır."
   },
   {
@@ -169,7 +169,7 @@
   },
   {
     "id": 30,
-    "question": "Müştəri deyir: “Fikirləşim, sonra gələrəm.” Nə demək daha məqsədəuyğundur?",
+    "question": "Müştəri deyir: 'Fikirləşim, sonra gələrəm.' Nə demək daha məqsədəuyğundur?",
     "options": [
       "Oldu, sağ olun.",
       "Əlbəttə, amma qiymət sabit qalmaya bilər, istəyirsinizsə nömrənizi qeyd edim.",

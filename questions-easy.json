@@ -2,106 +2,169 @@
   {
     "id": 1,
     "question": "Müştəri mağazaya daxil olanda ilk nə deməlisən?",
-    "options": ["Nə istəyirsiniz?", "Salam, xoş gəlmisiniz!", "Endirim var, baxın!", "Heç nə deməməliyəm, gözləməliyəm"],
-    "correct": 1,
+    "options": [
+      "Nə istəyirsiniz?", 
+      "Endirim var, baxın!", 
+      "Salam, xoş gəlmisiniz!", 
+      "Heç nə deməməliyəm, gözləməliyəm"
+    ],
+    "correct": 2,
     "explanation": "İlk təəssürat çox vacibdir. Gülərüz və nəzakətli salam müştəridə etimad yaradır."
   },
   {
     "id": 2,
     "question": "Müştəri deyir ki, 'Adapter 10 manata çox bahadır', nə cavab verməlisən?",
-    "options": ["Qiymət belədi, istəsəniz almayın.", "Bu adapter orijinaldır, cihazınızı qoruyur. Ucuz modellər cihazınıza zərər verə bilər.", "Mən endirim edə bilmərəm.", "Düz deyirsiniz, bahadır."],
-    "correct": 1,
+    "options": [
+      "Qiymət belədi, istəsəniz almayın.", 
+      "Mən endirim edə bilmərəm.", 
+      "Düz deyirsiniz, bahadır.",
+      "Bu adapter orijinaldır, cihazınızı qoruyur. Ucuz modellər cihazınıza zərər verə bilər."
+    ],
+    "correct": 3,
     "explanation": "Müştəriyə qiymətin səbəbini və məhsulun dəyərini izah etmək etibarı artırır və satışa kömək edir."
   },
   {
     "id": 3,
     "question": "\"2A\" yazılmış adapter nə deməkdir?",
-    "options": ["2 volt verir", "Sürətli enerji ötürür", "Telefonu daha yavaş doldurur", "Yalnız iPhone üçün uyğundur"],
+    "options": [
+      "2 volt verir", 
+      "Sürətli enerji ötürür", 
+      "Telefonu daha yavaş doldurur", 
+      "Yalnız iPhone üçün uyğundur"
+    ],
     "correct": 1,
     "explanation": " '2A' axın gücünü göstərir — daha yüksək amper sürətli enerji ötürülməsini təmin edir."
   },
   {
     "id": 4,
     "question": "Müştəri iPhone 11 üçün kablo istəyir. Hansı variant doğrudur?",
-    "options": ["Type-C", "Micro USB", "Lightning", "Mini USB"],
+    "options": [
+      "Type-C", 
+      "Micro USB", 
+      "Lightning", 
+      "Mini USB"
+    ],
     "correct": 2,
-    "explanation": "iPhone modelləri (11 daxil olmaqla) Lightning portundan istifadə edir."
+    "explanation": "Lightning portundan istifadə edir."
   },
   {
     "id": 5,
     "question": "Hansı hallarda adapter 'yanar' və ya sıradan çıxar?",
-    "options": ["Telefon çox istifadə olunanda", "Adapter aşağı keyfiyyətlidirsə və ya gərginlik dəyişirsə", "Telefon köhnədirsə", "Heç vaxt sıradan çıxmaz"],
-    "correct": 1,
+    "options": [
+      "Telefon çox istifadə olunanda", 
+      "Telefon köhnədirsə", 
+      "Adapter aşağı keyfiyyətlidirsə və ya gərginlik dəyişirsə", 
+      "Heç vaxt sıradan çıxmaz"
+    ],
+    "correct": 2,
     "explanation": "Aşağı keyfiyyətli adapter və ya gərginlik dalğalanması komponentləri zədələyə bilər."
   },
   {
     "id": 6,
     "question": "Satışda əsas məqsəd nədir?",
-    "options": ["Sadəcə məhsul satmaq", "Müştərini razı salmaq və yenidən gəlməsini təmin etmək", "Günün planını doldurmaq", "Daha çox danışmaq"],
-    "correct": 1,
+    "options": [
+      "Sadəcə məhsul satmaq", 
+      "Günün planını doldurmaq", 
+      "Daha çox danışmaq",
+      "Müştərini razı salmaq və yenidən gəlməsini təmin etmək"
+    ],
+    "correct": 3,
     "explanation": "Uğurlu satış uzunmüddətli müştəri məmnuniyyətinə əsaslanır, yalnız bir dəfəlik satışa yox."
   },
   {
     "id": 7,
     "question": "Müştəriyə üç məhsul göstərmək niyə vacibdir?",
-    "options": ["Müştəri qarışsın deyə", "Ucuz, orta və bahalı variantlar arasında seçim edə bilsin deyə", "Hər məhsuldan birini sata bilmək üçün", "Vaxt keçirmək üçün"],
-    "correct": 1,
+    "options": [
+      "Müştəri qarışsın deyə", 
+      "Hər məhsuldan birini sata bilmək üçün", 
+      "Vaxt keçirmək üçün",
+      "Ucuz, orta və bahalı variantlar arasında seçim edə bilsin deyə"
+    ],
+    "correct": 3,
     "explanation": "Üç variant təqdim etmək müştəriyə seçim imkanı verir və daha çox satış şansı yaradır."
   },
   {
     "id": 8,
     "question": "Müştəri deyir: 'Mən sadəcə baxıram.' Necə reaksiya verməlisən?",
-    "options": ["'Oldu, baxın.' və uzaqlaşmaq", "'Buyurun, baxa bilərsiniz, istəyirsinizsə bəzi fərqləri izah edim.'", "Cavab verməmək", "'Endirim var, indi alın!'"],
-    "correct": 1,
+    "options": [
+      "'Oldu, baxın.' və uzaqlaşmaq", 
+      "Cavab verməmək", 
+      "'Buyurun, baxa bilərsiniz, istəyirsinizsə bəzi fərqləri izah edim.'", 
+      "'Endirim var, indi alın!'"
+    ],
+    "correct": 2,
     "explanation": "Sakit və yardımlı münasibət müştərini rahatlaşdırır və dialoqa açıq saxlayır."
   },
   {
     "id": 9,
     "question": "Şüşə qoruyucu (screen protector) düzgün yapışdırılmadıqda nə olur?",
-    "options": ["Görüntü bulanıq olur və ekran həssaslığı azalır", "Telefon daha tez işləyir", "Rəngi dəyişir", "Heç bir fərq olmur"],
+    "options": [
+      "Görüntü bulanıq olur və ekran həssaslığı azalır", 
+      "Telefon daha tez işləyir", 
+      "Rəngi dəyişir", 
+      "Heç bir fərq olmur"
+    ],
     "correct": 0,
     "explanation": "Yanlış yapışdırma hava qabarcıqları yaradır və ekranın toxunma funksiyasını zəiflədir."
   },
   {
-    "id": 10,
-    "question": "Satış zamanı hansı davranış qadağandır?",
-    "options": ["Müştəriyə hörmətsizlik etmək", "Məhsulu təqdim etmək", "Sual vermək", "Tövsiyə etmək"],
-    "correct": 0,
-    "explanation": "Hörmətsizlik müştəri etimadını dərhal məhv edir və şirkətin imicinə zərər vurur."
-  },
-  {
     "id": 11,
     "question": "Adapter, kabel, powerbank və s. satarkən ən vacib sual hansıdır?",
-    "options": ["Qiymət limiti nə qədərdir?", "Telefonunuzun modeli hansıdır?", "Sürətli doldurma istəyirsiniz?", "Rəngi hansı olsun?"],
+    "options": [
+      "Qiymət limiti nə qədərdir?", 
+      "Telefonunuzun modeli hansıdır?", 
+      "Sürətli doldurma istəyirsiniz?", 
+      "Rəngi hansı olsun?"
+    ],
     "correct": 1,
     "explanation": "Doğru modelə uyğun aksesuar seçmək üçün əvvəlcə cihazın modelini bilmək lazımdır."
   },
   {
     "id": 12,
     "question": "'Orijinal məhsul' nə deməkdir?",
-    "options": ["Çin istehsalı məhsul", "Brendin öz istehsalı və sertifikatlı məhsul", "Ucuz məhsul", "Bazar məhsulu"],
-    "correct": 1,
+    "options": [
+      "Brendin öz istehsalı və sertifikatlı məhsul", 
+      "Çin istehsalı məhsul", 
+      "Ucuz məhsul", 
+      "Bazar məhsulu"
+    ],
+    "correct": 0,
     "explanation": "Orijinal məhsul — istehsalçı brendin təsdiqli, keyfiyyətli və təhlükəsiz məhsuludur."
   },
   {
     "id": 13,
     "question": "Müştəriyə endirim təklif etmək nə vaxt məqsədəuyğundur?",
-    "options": ["Satış bağlanmaq üzrədirsə", "Hər gələn müştəriyə dərhal", "Günün əvvəlində", "Endirim təklif etmək olmaz"],
-    "correct": 0,
+    "options": [
+      "Hər gələn müştəriyə dərhal", 
+      "Endirim təklif etmək olmaz",
+      "Günün əvvəlində", 
+      "Satış bağlanmaq üzrədirsə"
+    ],
+    "correct": 3,
     "explanation": "Endirim yalnız qərar vermək üzrə olan müştərilərə təklif edildikdə effektiv olur."
   },
   {
     "id": 14,
     "question": "'After-sales service' nə deməkdir?",
-    "options": ["Satışdan əvvəl xidmət", "Satışdan sonra müştəriyə dəstək və zəmanət xidməti", "Telefon təmiri", "Əlavə ödənişli xidmət"],
-    "correct": 1,
+    "options": [
+      "Satışdan sonra müştəriyə dəstək və zəmanət xidməti", 
+      "Satışdan əvvəl xidmət", 
+      "Telefon təmiri", 
+      "Əlavə ödənişli xidmət"
+    ],
+    "correct": 0,
     "explanation": "After-sales service — satışdan sonra müştəriyə göstərilən zəmanət və dəstək xidmətidir."
   },
   {
     "id": 15,
     "question": "Hansı cümlə daha doğru satış üslubudur?",
-    "options": ["Bu ucuzdu, alın.", "Bu məhsul daha keyfiyyətlidir, fərqi bu hissədə görə bilərsiniz.", "Məncə bahadır.", "Bu məhsul köhnədir, amma işləyir."],
-    "correct": 1,
+    "options": [
+      "Bu ucuzdu, alın.", 
+      "Məncə bahadır.", 
+      "Bu məhsul köhnədir, amma işləyir.",
+      "Bu məhsul daha keyfiyyətlidir, fərqi bu hissədə görə bilərsiniz."
+    ],
+    "correct": 3,
     "explanation": "Məhsulun üstünlüyünü əsaslandırmaq müştəriyə dəyəri başa salır və inam yaradır."
   }
 ]

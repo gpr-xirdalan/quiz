@@ -10,7 +10,7 @@ $(document).ready(function() {
 	let interval;	
 	let chooseCorrect = 0;
 
-	$.getJSON("questions-easy.json?v=1", function(data) {
+	$.getJSON("test.json?v=1", function(data) {
 		initQuiz(data);
 
 		$('.quiz-total-questions').text(qs.length);
@@ -41,9 +41,12 @@ $(document).ready(function() {
 				$('.choose.correct-option').addClass('correct');
 					typeExplanation();
 					$('.next').removeClass('disabled');
+
+					if((startIndex + 1) == qs.length) {
+						showEnd();
+					}
 			}, 600);
 		}
-
 	});
 
 
@@ -56,14 +59,20 @@ $(document).ready(function() {
 		const src = $(this).attr('data-src');
 
 		getQuiz(src);
+
+		modalStartHide();
 	});
 
+	$(document).on('click', '.restart', function() {
+		modalStartShow();
+		modalEndHide();
+	});
 
 
 	function getQuiz(src) {
 		reset();
 
-		$.getJSON(`${src}?v=1`, function(data) {
+		$.getJSON(`${src}?v=5`, function(data) {
 			initQuiz(data);
 
 			console.log(data.length);
@@ -151,7 +160,7 @@ $(document).ready(function() {
 	    hours++;
 	    minutes = 0;
 	  }
-	  timer.textContent = `${hours.toString().padStart(2, '0')}:${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`;
+	  timer.textContent = `${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`;
 	}	
 
 
@@ -178,6 +187,59 @@ $(document).ready(function() {
 	        i++;
 	        setTimeout(type, 30);
 	    }
+	}
+
+
+	function showEnd() {
+		modalEndShow();
+		clearInterval(interval);
+
+		let result = (chooseCorrect / qs.length) * 100;
+		let titleText = '';
+		let emoji = '💪'; 
+
+		// Öyrənmək istəyi — peşəkarlığa gedən yoldur. 💪
+		// Yaxşı nəticə! Sən inkişaf yolundasan! 😎
+		// Super nəticə! Sən artıq öz sahəndə peşəkar kimi düşünürsən. 🧠
+
+		$el = $('.modal-end');
+
+		if(result >= 30 ) {
+			titleText = 'Öyrənmək istəyi — peşəkarlığa gedən yoldur.';
+			emoji = '💪';
+		}
+
+		if(result >= 50) {
+			titleText = 'Yaxşı nəticə! Sən inkişaf yolundasan!';
+			emoji = '😎';			
+		}
+
+		if(result >= 70) {
+			titleText = 'Super nəticə! Sən artıq öz sahəndə peşəkar kimi düşünürsən.';
+			emoji = '🧠';			
+		}
+
+		$el.find('.emoji').html(emoji);
+		$el.find('.title').html(titleText);
+		$el.find('.res-time').html(`Vaxt: ${timer.textContent}`);
+		$el.find('.res-score').html(`Bal: ${chooseCorrect}0 `);
+	}
+
+	function modalStartShow() {
+		$('.modal-start').addClass('show-modal');
+	}
+
+	function modalStartHide() {
+		$('.modal-start').removeClass('show-modal');
+	}
+
+
+	function modalEndShow() {
+		$('.modal-end').addClass('show-modal');
+	}
+
+	function modalEndHide() {
+		$('.modal-end').removeClass('show-modal');
 	}
 
 

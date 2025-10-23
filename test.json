@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "question": "Müştəri mağazaya daxil olanda ilk nə deməlisən?",
+    "options": ["Nə istəyirsiniz?", "Salam, xoş gəlmisiniz!", "Endirim var, baxın!", "Heç nə deməməliyəm, gözləməliyəm"],
+    "correct": 1,
+    "explanation": "İlk təəssürat çox vacibdir. Gülərüz və nəzakətli salam müştəridə etimad yaradır."
+  },
+  {
+    "id": 2,
+    "question": "Müştəri deyir ki, 'Adapter 10 manata çox bahadır', nə cavab verməlisən?",
+    "options": ["Qiymət belədi, istəsəniz almayın.", "Bu adapter orijinaldır, cihazınızı qoruyur. Ucuz modellər cihazınıza zərər verə bilər.", "Mən endirim edə bilmərəm.", "Düz deyirsiniz, bahadır."],
+    "correct": 1,
+    "explanation": "Müştəriyə qiymətin səbəbini və məhsulun dəyərini izah etmək etibarı artırır və satışa kömək edir."
+  }
+]
