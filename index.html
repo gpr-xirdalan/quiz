@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="assets/line-awesome/css/line-awesome.min.css">
+	<link rel="stylesheet" href="assets/animate.min.css?v=1740341642648">
+	<link rel="stylesheet" href="assets/font.css?v=1740341642648">
+	<script type="text/javascript" src="assets/jquery-3.7.1.min.js"></script>
+	<title>QUIZ</title>
+</head>
+<body>
+	<div class="container">
+		<div class="quiz-container">
+			<div class="quiz-header">
+				<div class="quiz-header-item">
+					<div class="quiz-count">
+						<i class="las la-list-ol"></i>
+						<span class="quiz-current-questions">6</span>/<span class="quiz-total-questions">10</span>
+					</div>
+					<div class="quiz-time">
+						<i class="las la-stopwatch"></i>
+
+						<span id="timer">00:12</span>
+					</div>					
+				</div>
+				<div class="quiz-progress"></div>
+			</div>
+
+			<div class="quiz-body">
+				<span class="quiz-content">
+					<i class="las la-question"></i>
+					<span class="questions-text">
+						Müştəri deyir: "Mən internetdə daha ucuzunu gördüm."
+						Sən necə cavab verməlisən?
+					</span>
+				</span>
+
+				<div class="quiz-option-list">														
+				</div>
+
+			</div>
+
+		</div>
+	</div>
+
+	<button class="next disabled">NEXT</button>
+	<!-- <button class="reset">RESET</button> -->
+	<!-- <button class="load" data-src="questions-medium.json">load</button> -->
+</body>
+
+
+<script type="text/javascript" defer>
+		let head = document.getElementsByTagName("head");
+
+	    let link = document.createElement("link");
+	    link.rel = "stylesheet";
+	    link.href = "assets/style.css?v=" + new Date().getTime(); // Добавляем уникальный параметр
+
+	    document.head.appendChild(link);
+
+	    let script = document.createElement("script")
+	    script.type = "text/javascript";
+	    script.src = "assets/script.js?v=" + new Date().getTime();
+	    document.head.appendChild(script);
+
+</script>
+
+</html>

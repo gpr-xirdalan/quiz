@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "question": "Müştəri deyir: 'Mən internetdə daha ucuzunu gördüm.' Sən necə cavab verməlisən?",
+    "options": [
+      "Onda oradan alın.",
+      "Bəli, internetdə ucuz modellər olur, amma onların keyfiyyətinə və zəmanətinə əmin olmaq çətindir.",
+      "Bizdə də ucuz var.",
+      "Qiymət artıb, hamıda belədi."
+    ],
+    "correct": 1,
+    "explanation": "Bu cavab həm nəzakətlidir, həm də müştəriyə keyfiyyət və zəmanətin vacibliyini izah edir."
+  },
+  {
+    "id": 2,
+    "question": "Satışda 'etibar yaratmaq' nə deməkdir?",
+    "options": [
+      "Müştəriyə çox danışmaq",
+      "Müştərinin sənə inanmasını və dediklərinə güvənməsini təmin etmək",
+      "Endirim təklif etmək",
+      "Məhsulu tez satmaq"
+    ],
+    "correct": 1,
+    "explanation": "Etibar satışın əsas hissəsidir — müştəri sənə inananda qərar verməsi asanlaşır."
+  },
+  {
+    "id": 3,
+    "question": "Müştəri məhsulun fərqini soruşur: 'Bu niyə 12 manat, o niyə 8 manatdır?'",
+    "options": [
+      "Qiymət fərqini firmalar təyin edir.",
+      "12 manatlıq modelin iç hissəsi daha keyfiyyətlidir, cihazı daha tez doldurur və uzunömürlüdür.",
+      "Bilmirəm, mən satıram.",
+      "Bu sadəcə fərqli brenddir."
+    ],
+    "correct": 1,
+    "explanation": "Müştəriyə fərqi izah etmək onun seçim etməsini asanlaşdırır və satışa kömək edir."
+  },
+  {
+    "id": 4,
+    "question": "'Cross-sell' nə deməkdir?",
+    "options": [
+      "Müştəriyə endirim təklif etmək",
+      "Əlavə məhsul təklif etmək (məs: adapterlə birlikdə kabel, yaxud şüşə qoruyucu)",
+      "Qiymət azaltmaq",
+      "Satışı bağlamaq"
+    ],
+    "correct": 1,
+    "explanation": "Cross-sell — əsas məhsulla əlaqəli əlavə məhsul təklif etməkdir, bu həm faydalıdır, həm də satış həcmini artırır."
+  },
+  {
+    "id": 5,
+    "question": "'Upsell' nə deməkdir?",
+    "options": [
+      "Daha ucuz məhsul təklif etmək",
+      "Daha keyfiyyətli və bahalı məhsula yönləndirmək",
+      "Endirim istəmək",
+      "Yeni müştəri tapmaq"
+    ],
+    "correct": 1,
+    "explanation": "Upsell — müştərini daha keyfiyyətli və bahalı məhsula yönləndirərək satış dəyərini artırmaqdır."
+  },
+  {
+    "id": 6,
+    "question": "Müştəri deyir: 'Fərqi yoxdur, ən ucuzu ver.' Sənin ən düzgün addımın nədir?",
+    "options": [
+      "Ən ucuzu göstərmək və satmaq",
+      "Ən ucuzu göstər, amma fərqi izah et ki, keyfiyyətli olanın üstünlüklərini bilsin",
+      "Deyim: 'Ucuz mal keyfiyyətsiz olur'",
+      "Dərhal bahalı modeli göstərmək"
+    ],
+    "correct": 1,
+    "explanation": "Müştəriyə seçim imkanı verməklə yanaşı, keyfiyyət fərqini izah etmək onun inamını artırır."
+  },
+  {
+    "id": 7,
+    "question": "Hansı davranış 'aktiv satış' sayılır?",
+    "options": [
+      "Müştəriyə uyğun məhsulu təqdim etmək və üstünlüklərini izah etmək",
+      "Müştəriyə baxmaq və gözləmək",
+      "Yalnız sual veriləndə cavab vermək",
+      "Kassada dayanmaq"
+    ],
+    "correct": 0,
+    "explanation": "Aktiv satış — müştəri ilə fəal ünsiyyət qurmaq və ehtiyacına uyğun məhsul təqdim etməkdir."
+  },
+  {
+    "id": 8,
+    "question": "Satışda 'müşahidə bacarığı' nə üçün vacibdir?",
+    "options": [
+      "Müştərinin geyimini bəyənmək üçün",
+      "Müştərinin ehtiyacını, zövqünü və büdcəsini davranışına görə anlamaq üçün",
+      "Sadəcə vitrini izləmək üçün",
+      "Kimə birinci yaxınlaşmaq lazım olduğunu bilmək üçün"
+    ],
+    "correct": 1,
+    "explanation": "Müştərinin davranışına diqqət etməklə onun ehtiyacını daha tez və düzgün müəyyən etmək mümkündür."
+  },
+  {
+    "id": 9,
+    "question": "Müştəri deyir: 'Mən fikirləşim.' Ən uyğun cavab hansıdır?",
+    "options": [
+      "Oldu, sağ olun.",
+      "Əlbəttə, amma icazə verin, sizə qərar verməkdə kömək edim — bu modelin üstünlükləri bunlardır…",
+      "Tələsin, bu sonuncudur.",
+      "Deməli, maraqlanmadınız."
+    ],
+    "correct": 1,
+    "explanation": "Müştəriyə təzyiq göstərmədən, kömək təklif etmək onun fikrini dəyişə və satışa gətirə bilər."
+  },
+  {
+    "id": 10,
+    "question": "Satış zamanı 'bədən dili'nin rolu nədir?",
+    "options": [
+      "Etibarı və səmimiyyəti artırır",
+      "Heç bir əhəmiyyəti yoxdur",
+      "Sadəcə qadın müştərilərdə işləyir",
+      "Yalnız təlimlərdə istifadə olunur"
+    ],
+    "correct": 0,
+    "explanation": "Göz təması, jestlər və duruş etibarı və səmimiyyəti gücləndirir."
+  },
+  {
+    "id": 11,
+    "question": "Hansı cümlə müştəridə daha çox inam yaradır?",
+    "options": [
+      "Hamı bu modeli alır.",
+      "Bu model xüsusilə tez qızmır və orijinal çiplə istehsal olunub.",
+      "Ucuzdu, ziyana satırıq.",
+      "İstəsəniz endirim edim."
+    ],
+    "correct": 1,
+    "explanation": "Məhsulun konkret üstünlüklərini izah etmək müştərinin inamını artırır."
+  },
+  {
+    "id": 12,
+    "question": "Satış zamanı 'emosional əlaqə' nə deməkdir?",
+    "options": [
+      "Müştəri ilə dostlaşmaq",
+      "Müştərinin hisslərini anlayıb, alış qərarına təsir etmək bacarığı",
+      "Zarafat etmək",
+      "Şəxsi mövzulara keçmək"
+    ],
+    "correct": 1,
+    "explanation": "Emosional əlaqə müştərinin ehtiyac və hisslərinə fokuslanmaqla onun qərarına təsir etməkdir."
+  },
+  {
+    "id": 13,
+    "question": "Vitrində məhsulların düzülüşü nə üçün vacibdir?",
+    "options": [
+      "Rənglər gözə xoş gəlsin deyə",
+      "Satışı artırmaq və müştərinin diqqətini cəlb etmək üçün",
+      "Mağaza səliqəli görünsün deyə",
+      "Rəhbərlik üçün hesabat asan olsun deyə"
+    ],
+    "correct": 1,
+    "explanation": "Düzgün vitrin yerləşməsi müştərinin marağını artırır və məhsulun satılma ehtimalını çoxaldır."
+  },
+  {
+    "id": 14,
+    "question": "Müştəriyə məhsul təqdim edərkən ən vacib hissə hansıdır?",
+    "options": [
+      "Qiyməti demək",
+      "Faydalarını və müştəriyə nə qazandıracağını izah etmək",
+      "Model kodunu oxumaq",
+      "Reklamı göstərmək"
+    ],
+    "correct": 1,
+    "explanation": "Məhsulun faydasını izah etmək müştərinin dəyər anlayışını artırır və qərar verməsini asanlaşdırır."
+  },
+  {
+    "id": 15,
+    "question": "Satışın sonunda müştəriyə nə demək düzgündür?",
+    "options": [
+      "Sağ olun.",
+      "Təşəkkür edirəm, ümid edirəm məmnun qalacaqsınız. Hər hansı problem olsa, biz buradayıq.",
+      "Gələn dəfə daha bahalı alın.",
+      "Yenə gəlin, endirim edərik."
+    ],
+    "correct": 1,
+    "explanation": "Müştəriyə təşəkkür və dəstək təklifi gələcəkdə yenidən alış üçün etibar yaradır."
+  }
+]
